@@ -1,4 +1,4 @@
-# ![logo](http://www.imgbox.de/users/public/images/FCVDJWsmbn.png) ZeroServer Status ![Build status](https://api.travis-ci.org/CoronaCore/ZeroServer.png) OneServer Status ![Build status](https://api.travis-ci.org/CoronaCore/OneServer.png) TwoServer Status ![Build status](https://api.travis-ci.org/CoronaCore/TwoServer.png)
+# ![logo](http://www.imgbox.de/users/public/images/FCVDJWsmbn.png)
 
 <b><font size="7">Welcome to the CoronaCore Bugtracker!</font></b>
 
