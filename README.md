@@ -9,6 +9,10 @@ ZeroServer Status ![Build status](https://api.travis-ci.org/CoronaCore/ZeroServe
 OneServer Status ![Build status](https://api.travis-ci.org/CoronaCore/OneServer.png)<br />
 TwoServer Status ![Build status](https://api.travis-ci.org/CoronaCore/TwoServer.png)
 
+ZeroDatabase Status ![Build status](https://api.travis-ci.org/CoronaCore/ZeroDatabase.png)<br />
+OneDatabase Status ![Build status](https://api.travis-ci.org/CoronaCore/One
+Database.png)<br />
+TwoDatabase Status ![Build status](https://api.travis-ci.org/CoronaCore/TwoDatabase.png)
 
 <b>Before reporting any issue:</b>
 
