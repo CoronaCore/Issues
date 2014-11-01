@@ -1,4 +1,4 @@
-# ![logo](http://www.imgbox.de/users/public/images/2g9ul55zmA.png)
+# ![logo](https://raw.githubusercontent.com/CoronaCore/TestServer/master/images/logo.png)
 
 <b><font size="7">Welcome to the CoronaCore Bugtracker!</font></b>
 
